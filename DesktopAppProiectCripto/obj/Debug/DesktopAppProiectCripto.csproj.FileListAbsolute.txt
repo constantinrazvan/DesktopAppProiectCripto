@@ -1,0 +1,11 @@
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\bin\Debug\DesktopAppProiectCripto.exe.config
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\bin\Debug\DesktopAppProiectCripto.exe
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\bin\Debug\DesktopAppProiectCripto.pdb
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.csproj.AssemblyReference.cache
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.Form1.resources
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.Properties.Resources.resources
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.csproj.GenerateResource.cache
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.csproj.CoreCompileInputs.cache
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.exe
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\obj\Debug\DesktopAppProiectCripto.pdb
+C:\Users\razvan\Desktop\DesktopAppProiectCripto\DesktopAppProiectCripto\bin\Debug\EncryptedApp.accdb
